@@ -1,0 +1,17 @@
+# Data Directories #
+####################
+data*/*
+
+
+# Data File Types #
+###################
+*.csv
+*.Rda
+*.xlsx
+
+
+# R Project Files #
+###################
+.Rproj.user
+.Rhistory
+.RData
