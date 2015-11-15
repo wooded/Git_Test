@@ -11,3 +11,4 @@
 # Step 5
 
 # Step 6
+b <- runif(100)
