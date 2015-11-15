@@ -5,6 +5,7 @@
 # Step 2.6
 
 # Step 3
+## Is Spec Available?
 
 # Step 4
 
