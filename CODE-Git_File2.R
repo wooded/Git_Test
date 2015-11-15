@@ -7,6 +7,7 @@
 # Step 3
 
 # Step 4
+## What will this do?
 
 # Step 5
 c <- rexp(100)
