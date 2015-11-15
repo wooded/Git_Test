@@ -19,3 +19,5 @@ c <- rexp(100)
 
 # Step 6
 b <- runif(100)
+
+# Step 7
