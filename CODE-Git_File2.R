@@ -8,6 +8,7 @@ source("CODE-Git_File1.R")
 # Step 2.6
 
 # Step 3
+## Is Spec Available?
 
 # Step 4
 ## The variable 'a' is created in "CODE-Git_File1.R"
