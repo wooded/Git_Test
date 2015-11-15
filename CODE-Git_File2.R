@@ -9,6 +9,7 @@
 # Step 4
 
 # Step 5
+c <- rexp(100)
 
 # Step 6
 b <- runif(100)
